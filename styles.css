@@ -1,0 +1,38 @@
+.body{
+    padding-left: 100px;
+    margin:20px;
+    font-family: "Roboto";
+}
+
+hr{
+    border:solid;
+    color:black;
+    border-width: 2px;
+    width: 80%;
+    margin-left: 120px;
+    
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color:rgb(7, 156, 248);
+}
+
+h3{
+    font-weight: 100;
+}
+h2{
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.name{
+    font-weight: 100;
+}
+
+li{
+    padding-top: 3px;
+}
